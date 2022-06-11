@@ -1,3 +1,3 @@
 # OpenCV_Emotion_Detection
-Emotion Detection System designed using Python programming language and OpenCv library.
-The 'Shape Predictor 68 Face Landmarks' dataset was used for emotion detection calculation and the tkinter library was used for form design.
+
+In Emotion Detection System, Python programming language, OpenCv library for image processing, Tkinter library for form design and 'Shape Predictor 68 Face Landmarks' dataset are used for emotion detection.
